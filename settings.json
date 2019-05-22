@@ -1,0 +1,56 @@
+{
+    "workbench.colorTheme": "Github Light Theme",
+    "editor.largeFileOptimizations": false,
+    "python.unitTest.pyTestEnabled": true,
+    "csv-preview.theme": "cleanlight",
+    "diffEditor.ignoreTrimWhitespace": true,
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorCustomizations": {
+        "activityBarBadge.background": "#7CB342",
+        "list.activeSelectionForeground": "#7CB342",
+        "list.inactiveSelectionForeground": "#7CB342",
+        "list.highlightForeground": "#7CB342",
+        "scrollbarSlider.activeBackground": "#7CB34250",
+        "editorSuggestWidget.highlightForeground": "#7CB342",
+        "textLink.foreground": "#7CB342",
+        "progressBar.background": "#7CB342",
+        "pickerGroup.foreground": "#7CB342",
+        "tab.activeBorder": "#7CB342",
+        "notificationLink.foreground": "#7CB342",
+        "editorWidget.resizeBorder": "#7CB342",
+        "editorWidget.border": "#7CB342",
+        "settings.modifiedItemIndicator": "#7CB342",
+        "settings.headerForeground": "#7CB342",
+        "panelTitle.activeBorder": "#7CB342",
+        "breadcrumb.activeSelectionForeground": "#7CB342",
+        "menu.selectionForeground": "#7CB342",
+        "menubar.selectionForeground": "#7CB342",
+        "list.hoverForeground": "#93ad1c",
+    },
+    "materialTheme.accent": "Lime",
+    "vim.searchHighlightColor": "#80e577",
+    "atlascode.jira.workingSite": {
+        "baseUrlSuffix": "atlassian.net"
+    },
+    "yaml.schemas": {
+        "file:///Users/jcahill/.vscode/extensions/atlassian.atlascode-1.3.1/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+    },
+    "atlascode.jira.workingProject": {
+        "id": "14400",
+        "key": "VENUS",
+        "name": "Venus"
+    },
+    "atlascode.jira.customJql": [
+        {
+            "jql": [
+                {
+                    "enabled": false,
+                    "id": "",
+                    "name": "",
+                    "query": ""
+                }
+            ],
+            "siteId": "ec443851-dd88-4e7c-b8fb-2e48a8df45ca"
+        }
+    ]
+}
