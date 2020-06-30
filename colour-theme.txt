@@ -1,0 +1,12 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "window.zoomLevel": 0,
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+    "workbench.colorCustomizations": {
+        "[Solarized Light]": {
+            "sideBar.background": "#ece80a7a",
+            "editor.background": "#6df17e"
+        }
+    },
+    "workbench.colorTheme": "Solarized Light"
+}
